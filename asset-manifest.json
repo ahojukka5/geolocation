@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/geolocation/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/geolocation/static/js/main.fb0004c1.chunk.js",
+    "main.js.map": "/geolocation/static/js/main.fb0004c1.chunk.js.map",
+    "runtime-main.js": "/geolocation/static/js/runtime-main.50aac73f.js",
+    "runtime-main.js.map": "/geolocation/static/js/runtime-main.50aac73f.js.map",
+    "static/js/2.35697240.chunk.js": "/geolocation/static/js/2.35697240.chunk.js",
+    "static/js/2.35697240.chunk.js.map": "/geolocation/static/js/2.35697240.chunk.js.map",
+    "static/js/3.738ac5e5.chunk.js": "/geolocation/static/js/3.738ac5e5.chunk.js",
+    "static/js/3.738ac5e5.chunk.js.map": "/geolocation/static/js/3.738ac5e5.chunk.js.map",
+    "index.html": "/geolocation/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/geolocation/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.35697240.chunk.js.LICENSE.txt": "/geolocation/static/js/2.35697240.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50aac73f.js",
+    "static/js/2.35697240.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.fb0004c1.chunk.js"
+  ]
+}
